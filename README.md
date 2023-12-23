@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **MEAN projects And IOT projects**
 
-- 👨‍💻 All of my projects are available at [https://jilani-med.web.app/](https://jilani-med.web.app/)
-
 - 💬 Ask me about **Laravel, Symfony and Android**
 
 - 📫 How to reach me **jilanimed07@gmail.com**
