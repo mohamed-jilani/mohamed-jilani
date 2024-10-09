@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-jilani&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-jilani" /> </p>
 
-- 🌱 I’m currently learning **Springboot and Angular**
+- 🌱 I’m currently learning **React and Angular**
 
 - 👯 I’m looking to collaborate on **MEAN projects And IOT projects**
 
